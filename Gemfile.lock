@@ -202,7 +202,7 @@ DEPENDENCIES
   listen
   pg
   puma
-  rails (~> 7.0.0)
+  rails (~> 7.0, >= 7.0.4.2)
   rails_12factor
   sassc
   spring
